@@ -1,0 +1,10 @@
+.bg-gray{
+    background-color: #5a5656;    
+}
+.fcontainer{
+    display:flex;
+    justify-content:space-evenly;
+     flex-direction: row;
+    flex-wrap: wrap;
+
+}

@@ -1,0 +1,17 @@
+.card {
+    width: 18rem;
+     font-size:20px;
+     box-sizing:border-box;
+    background-color:#ffbd59;   
+}
+
+
+@media only screen and (max-width: 600px) {
+   .card {
+    width: 16rem;
+    }
+  }
+  .card img{
+    height:200px;
+    object-fit: fill;
+  }

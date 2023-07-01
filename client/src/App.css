@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope&family=Roboto+Slab&display=swap');
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+   font-family: 'Roboto Slab', serif;
+ }
+.bg-gray{
+  background-color: rgb(90, 86, 86);    
+}
+.nav-link,.navbar-brand{
+  color:white;
+  font-size: 20px;
+  font-weight: bold;
+  
+}
+
+
+

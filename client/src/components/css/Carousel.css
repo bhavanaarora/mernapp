@@ -1,0 +1,10 @@
+#carousel img{
+    height:70vh;
+    filter:brightness(50%);    
+    max-height:700px;
+    object-fit: "contain" !important;
+    width:100%
+}
+ #carousel .carousel-caption{
+    z-index:10;    
+}

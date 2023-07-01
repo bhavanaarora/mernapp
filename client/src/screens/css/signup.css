@@ -1,0 +1,43 @@
+.form-label,
+.form-check-label,
+.form-check-input {
+    color: white;
+    font-size: 20px;
+    margin-top: 10px;
+
+}
+
+
+
+ #carousel1 img{
+    height:70vh;
+    filter:brightness(30%);    
+    max-height:700px;
+    object-fit: "contain" !important;
+    width:100%
+    
+}
+ #carousel1 .carousel-caption{
+    z-index:10;
+ }
+
+
+#form1{
+    width:60vw;
+   max-height:600px;
+} 
+
+
+#img2 {
+    width: 100vw;
+    height: 120vh;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    filter: brightness(30%);
+}
+#form2{
+    height:1100px;
+}
