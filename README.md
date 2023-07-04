@@ -33,7 +33,14 @@ Execute these commands from the project directory
  cd client && npm install
 ```
 
+## Running the app
+Open a terminal on the Root directory
 
+``` node app.js ```
+
+and open another terminal on the client directory
+
+``` npm run start ```
 
 
 
