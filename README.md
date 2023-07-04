@@ -19,6 +19,24 @@ It is an E-Commerce Food Delivery App
 
 #### It is a MERN Project
 
+## Prerequisites:
+NPM / Yarn and Node.js installed
+
+## Installing
+Installing NPM modules on both client and Root folders
+
+Execute these commands from the project directory
+
+```
+ npm install
+
+ cd client && npm install
+```
+
+
+
+
+
 ## Demo Of The Project
 [Live Project Link](https://busy-gold-starfish-shoe.cyclic.app/)
 
